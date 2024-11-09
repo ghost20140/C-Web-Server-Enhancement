@@ -1,0 +1,14 @@
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/bin/Debug/net7.0/simpleserver
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/bin/Debug/net7.0/simpleserver.deps.json
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/bin/Debug/net7.0/simpleserver.runtimeconfig.json
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/bin/Debug/net7.0/simpleserver.dll
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/bin/Debug/net7.0/simpleserver.pdb
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/obj/Debug/net7.0/simpleserver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/obj/Debug/net7.0/simpleserver.AssemblyInfoInputs.cache
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/obj/Debug/net7.0/simpleserver.AssemblyInfo.cs
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/obj/Debug/net7.0/simpleserver.csproj.CoreCompileInputs.cache
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/obj/Debug/net7.0/simpleserver.dll
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/obj/Debug/net7.0/refint/simpleserver.dll
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/obj/Debug/net7.0/simpleserver.pdb
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/obj/Debug/net7.0/simpleserver.genruntimeconfig.cache
+/Users/subhanahmad/Desktop/CS 208/simpleserver-main/obj/Debug/net7.0/ref/simpleserver.dll
